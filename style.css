@@ -1,0 +1,19 @@
+body{
+    color: rgb(0, 0, 0);
+    
+}
+.headings{
+    color: blueviolet;
+    font-size: 18px;
+    border: 2px solid black;
+    /* width: 50%; */
+    background-color: antiquewhite;
+    float: left;
+   margin-left: 30px;
+   padding: 45px;
+  
+
+}
+#h1{
+    color: red;
+}
